@@ -1,1 +1,6 @@
-# zgadywanka-lab4
+# Projekt zgadywanka lab4!
+
+Przykładowy tekst do projektu.
+
+## Przykład przykład
+
